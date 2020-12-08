@@ -1,0 +1,19 @@
+{
+  "name": "workshop3",
+  "version": "0.1.0",
+  "description": "node.js proyect eam programación web",
+  "main": "app.js",
+  "scripts": { 
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Jhon Alejandro Rodríguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
